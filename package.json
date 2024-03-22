@@ -1,0 +1,19 @@
+{
+  "name": "suntatque",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.3.0",
+    "grunt-contrib-watch": "~0.3.1",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-concat": "~0.2.0"
+  },
+  "author": "DarianaKunde",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RileyLueilwitz/suntatque.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RileyLueilwitz/suntatque.git/issues"
+  }
+}
